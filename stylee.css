@@ -1,0 +1,23 @@
+.logo {
+    color: chocolate;
+    margin:0 0 0 15px;
+    padding: 15px;
+}
+
+.catalogo {
+    padding: 25px;
+    text-align: center;
+    color: chocolate;
+    }
+    
+.nome{
+    padding: 100px; 
+    font: bold;
+    color: aliceblue;
+}    
+    .produtos{
+     width: 940px;
+	margin: 0 auto;
+	padding: 50px 0 ;
+    }
+    
