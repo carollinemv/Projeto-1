@@ -4,7 +4,7 @@
     padding: 15px;
 }
 
-.catalogo {
+.catalogo{
     padding: 25px;
     text-align: center;
     color: chocolate;
@@ -16,8 +16,22 @@
     color: aliceblue;
 }    
     .produtos{
-     width: 940px;
+     width: 1040px;
 	margin: 0 auto;
-	padding: 50px 0 ;
+	padding: 40px 0 ;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    }
+
+    .validade{
+        width: 1040px;
+        margin: 0 auto;
+        padding: 10px;
+
+    }
+    .produto-descricao{
+        display: flex;
+        flex-direction: column;
     }
     
