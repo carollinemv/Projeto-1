@@ -4,11 +4,13 @@
     padding: 15px;
 }
 
-.catalogo{
+.catalogo {
     padding: 25px;
     text-align: center;
     color: chocolate;
+    
     }
+
     
 .nome{
     padding: 100px; 
@@ -33,5 +35,8 @@
     .produto-descricao{
         display: flex;
         flex-direction: column;
+    }
+    .copyright{
+        text-align: center;
     }
     
